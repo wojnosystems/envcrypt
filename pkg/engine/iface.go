@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"envcrypt/pkg/envfile"
+	"github.com/wojnosystems/envcrypt/pkg/envfile"
 )
 
 type Enginer interface {

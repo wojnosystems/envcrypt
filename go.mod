@@ -1,4 +1,4 @@
-module envcrypt
+module github.com/wojnosystems/envcrypt
 
 go 1.13
 

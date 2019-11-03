@@ -5,8 +5,8 @@ import (
 	"crypto/aes"
 	"crypto/cipher"
 	"crypto/rand"
-	"envcrypt/pkg/envfile"
 	"fmt"
+	"github.com/wojnosystems/envcrypt/pkg/envfile"
 	"io"
 )
 

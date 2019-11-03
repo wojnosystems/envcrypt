@@ -2,10 +2,10 @@ package main
 
 import (
 	"encoding/base64"
-	"envcrypt/pkg/engine"
-	"envcrypt/pkg/envfile"
 	"fmt"
 	"github.com/urfave/cli"
+	"github.com/wojnosystems/envcrypt/pkg/engine"
+	"github.com/wojnosystems/envcrypt/pkg/envfile"
 	"os"
 	"syscall"
 )

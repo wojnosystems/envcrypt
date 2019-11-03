@@ -2,8 +2,8 @@ package envfile
 
 import (
 	"encoding/binary"
-	"envcrypt/pkg/stream_io"
 	"fmt"
+	"github.com/wojnosystems/envcrypt/pkg/stream_io"
 	"io"
 )
 

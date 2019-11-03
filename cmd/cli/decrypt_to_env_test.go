@@ -2,8 +2,8 @@ package main
 
 import (
 	"encoding/base64"
-	"envcrypt/pkg/envfile"
 	"github.com/stretchr/testify/assert"
+	"github.com/wojnosystems/envcrypt/pkg/envfile"
 	"testing"
 )
 
